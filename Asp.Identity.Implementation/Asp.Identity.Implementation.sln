@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asp.Identity.Domain", "Asp.Identity.Domain\Asp.Identity.Domain.csproj", "{2E895EF6-445D-48F1-939F-F2A38DA54092}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asp.Identity.DataAccess", "Asp.Identity.DataAccess\Asp.Identity.DataAccess.csproj", "{A0489B6E-AFD1-4864-B975-2EEBCF422F8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E895EF6-445D-48F1-939F-F2A38DA54092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E895EF6-445D-48F1-939F-F2A38DA54092}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E895EF6-445D-48F1-939F-F2A38DA54092}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E895EF6-445D-48F1-939F-F2A38DA54092}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0489B6E-AFD1-4864-B975-2EEBCF422F8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0489B6E-AFD1-4864-B975-2EEBCF422F8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0489B6E-AFD1-4864-B975-2EEBCF422F8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0489B6E-AFD1-4864-B975-2EEBCF422F8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

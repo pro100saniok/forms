@@ -1,0 +1,8 @@
+E:\Projects\Asp.Identity.Implementation\Asp.Identity.Domain\bin\Debug\Asp.Identity.Domain.dll
+E:\Projects\Asp.Identity.Implementation\Asp.Identity.Domain\bin\Debug\Asp.Identity.Domain.pdb
+E:\Projects\Asp.Identity.Implementation\Asp.Identity.Domain\bin\Debug\EntityFramework.dll
+E:\Projects\Asp.Identity.Implementation\Asp.Identity.Domain\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\Asp.Identity.Implementation\Asp.Identity.Domain\bin\Debug\EntityFramework.xml
+E:\Projects\Asp.Identity.Implementation\Asp.Identity.Domain\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\Asp.Identity.Implementation\Asp.Identity.Domain\obj\Debug\Asp.Identity.Domain.dll
+E:\Projects\Asp.Identity.Implementation\Asp.Identity.Domain\obj\Debug\Asp.Identity.Domain.pdb
